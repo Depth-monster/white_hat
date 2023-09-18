@@ -11,3 +11,11 @@ growing areas, and demand is strong.
 
 So why do hackers use Linux over other operating systems? Mostly because
 Linux offers a far higher level of control via a few different methods.
+
+### Linux Offers Granular Control
+
+Linux is granular. That means that you have an almost infinite amount of
+control over the system. In Windows, you can control only what Microsoft
+allows you to control. In Linux, everything can be controlled by the terminal,
+at the most miniscule level or the most macro level. In addition, Linux makes
+scripting in any of the scripting languages simple and effective
