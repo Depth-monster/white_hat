@@ -25,3 +25,16 @@ nearly anything on the system. This would include such things as reconfiguring t
 that account is called root. As a hacker or pentester, you will often use
 the root account to give yourself control over the system. In fact, many
 hacker tools require that you use the root account.
+### Script 
+This is a series of commands run in an interpretive environment that converts each line to source code. Many hacking tools are
+simply scripts. Scripts can be run with the bash interpreter or any of
+the other scripting language interpreters, such as Python, Perl, or Ruby.
+Python is currently the most popular interpreter among hackers.
+
+### Shell 
+This is an environment and interpreter for running commands
+in Linux. The most widely used shell is bash, which stands for Bourneagain shell, but other popular shells include the C shell and Z shell. I
+will be using the bash shell exclusively in this book.
+
+### Terminal 
+This is a command line interface (CLI).
