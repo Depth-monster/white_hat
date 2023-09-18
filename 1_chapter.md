@@ -18,3 +18,10 @@ where files you create will be saved by default.
 ### Kali 
 Kali Linux is a distribution of Linux specifically designed for
 penetration testing
+### root 
+Like nearly every operating system, Linux has an administrator
+or superuser account, designed for use by a trusted person who can do
+nearly anything on the system. This would include such things as reconfiguring the system, adding users, and changing passwords. In Linux,
+that account is called root. As a hacker or pentester, you will often use
+the root account to give yourself control over the system. In fact, many
+hacker tools require that you use the root account.
