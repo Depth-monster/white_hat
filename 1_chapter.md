@@ -6,5 +6,6 @@ usr/sbin directory and include utilities such as ps, cat, ls, and ifconfig
 detection system (IDS) Snort.
 
 ### Case sensitivity 
+
 Unlike Windows, the Linux filesystem is case sensitive. This means that Desktop is different from desktop, which is different
 from DeskTop.
