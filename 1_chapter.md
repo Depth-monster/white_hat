@@ -12,3 +12,9 @@ from DeskTop.
 
 ### Directory 
 This is the same as a folder in Windows. A directory provides a way of organizing files, usually in a hierarchical manner
+### Home 
+Each user has their own /home directory, and this is generally
+where files you create will be saved by default.
+### Kali 
+Kali Linux is a distribution of Linux specifically designed for
+penetration testing
