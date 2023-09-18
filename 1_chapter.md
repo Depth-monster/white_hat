@@ -9,3 +9,6 @@ detection system (IDS) Snort.
 
 Unlike Windows, the Linux filesystem is case sensitive. This means that Desktop is different from desktop, which is different
 from DeskTop.
+
+### Directory 
+This is the same as a folder in Windows. A directory provides a way of organizing files, usually in a hierarchical manner
