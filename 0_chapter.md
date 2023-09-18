@@ -6,3 +6,8 @@ dramatic growth in the field of ethical hacking, also known as white hat
 secure it. I segment the field of ethical hacking into two primary components: penetration testing for a legitimate information security firm and
 working for your nation’s military or intelligence agencies. Both are rapidly
 growing areas, and demand is strong.
+
+### Why Hackers Use Linux
+
+So why do hackers use Linux over other operating systems? Mostly because
+Linux offers a far higher level of control via a few different methods.
