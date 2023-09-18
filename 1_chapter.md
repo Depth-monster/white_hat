@@ -38,3 +38,6 @@ will be using the bash shell exclusively in this book.
 
 ### Terminal 
 This is a command line interface (CLI).
+
+![image](https://github.com/Depth-monster/white_hat/assets/122405130/8c45b169-b1d6-4636-b0a1-a5eee2d9c0e1)
+
