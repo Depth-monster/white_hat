@@ -1,4 +1,5 @@
-###What Is Ethical Hacking?
+### What Is Ethical Hacking?
+
 With the growth of the information security field in recent years has come
 dramatic growth in the field of ethical hacking, also known as white hat
 (good guy) hacking. Ethical hacking is the practice of attempting to infiltrate and exploit a system in order to find out its weaknesses and better
