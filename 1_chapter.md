@@ -44,7 +44,7 @@ This is a command line interface (CLI).
 To get more information about the files and directories, such as their
 permissions, owner, size, and when they were last modified, you can add
 the -l switch after ls
-## kali >ls -l
+### kali >ls -l
 
 total 84
 
