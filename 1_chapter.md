@@ -45,23 +45,14 @@ To get more information about the files and directories, such as their
 permissions, owner, size, and when they were last modified, you can add
 the -l switch after ls
 ## kali >ls -l
-
 total 84
-
 drw-r--r-- 1 root root 4096 Dec 5 11:15 bin
-
 drw-r--r-- 2 root root 4096 Dec 5 11:15 boot
-
 drw-r--r-- 3 root root 4096 Dec 9 13:10 dev
-
 drw-r--r-- 18 root root 4096 Dec 9 13:43 etc
-
 --snip--
-
 drw-r--r-- 1 root root 4096 Dec 5 11:15 var
-
 Some files in Linux are hidden and won’t be revealed by a simple ls or
-
 ls -l command. To show hidden files, add a lowercase –a switch, like so:
 
 ## kali >ls -la
