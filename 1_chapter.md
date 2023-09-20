@@ -75,3 +75,21 @@ aircrack-ng command followed by the --help command:
 Unfortunately, although many applications support all three options
 (--help, -h, and -?), there’s no guarantee the application you’re using will.
 So if one option doesn’t work, try another
+### Referencing Manual Pages with man
+
+In addition to the help switch, most commands and applications have a
+manual (man) page with more information, such as a description and synopsis of the command or application
+### kali >man aircrack-ng
+### Searching with locate
+#### kali >locate aircrack-ng
+
+/usr/bin/aircrack-ng
+
+/usr/share/applications/kali-aircrack-ng.desktop
+
+/usr/share/desktop-directories/05-1-01-aircrack-ng.directory
+
+--snip--
+
+/var/lib/dpkg/info/aircrack-ng.md5sums
+
