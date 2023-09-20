@@ -93,3 +93,8 @@ manual (man) page with more information, such as a description and synopsis of t
 
 /var/lib/dpkg/info/aircrack-ng.md5sums
 
+### Finding Binaries with whereis
+#### kali >whereis aircrack-ng
+
+aircarck-ng: /usr/bin/aircarck-ng /usr/share/man/man1/aircarck-ng.1.gz
+
