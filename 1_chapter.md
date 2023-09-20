@@ -65,3 +65,13 @@ Some files in Linux are hidden and won’t be revealed by a simple ls or
 ls -l command. To show hidden files, add a lowercase –a switch, like so:
 
 ## kali >ls -la
+========
+Nearly every command, application, or utility has a dedicated help file in
+Linux that provides guidance for its use. For instance, if I needed help
+using the best wireless cracking tool, aircrack-ng, I could simply type the
+aircrack-ng command followed by the --help command:
+# kali >aircrack-ng --help
+# kali >nmap -h
+Unfortunately, although many applications support all three options
+(--help, -h, and -?), there’s no guarantee the application you’re using will.
+So if one option doesn’t work, try another
