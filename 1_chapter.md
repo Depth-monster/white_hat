@@ -97,4 +97,3 @@ manual (man) page with more information, such as a description and synopsis of t
 #### kali >whereis aircrack-ng
 
 aircarck-ng: /usr/bin/aircarck-ng /usr/share/man/man1/aircarck-ng.1.gz
-
